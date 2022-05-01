@@ -1040,3 +1040,23 @@ h4 {
         text-align: center;
     }
 }
+
+/* modifications suite à l'audit SEO */
+
+.apparence_text {
+    font-size: 1.43em;
+    max-width: 550px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.apparence_citation {
+    font-style: italic;
+}
+
+.apparence_titre_portfolio {
+    font-size: 1.6em;
+}
+
+
